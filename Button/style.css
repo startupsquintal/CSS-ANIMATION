@@ -16,7 +16,7 @@ a{
     display: block;
     position: relative;
     height: 80px;
-    width: 140px;
+    width: 160px;
     background: #2e2e2e;
     line-height: 80px;
     text-align: center;
@@ -37,7 +37,7 @@ a:before{
     content: '';
     position: absolute;
     height: 100%;
-    width: 14%;
+    width: 21.9%;
     background: #292929;
     top: 10px;
     left: -20px;
